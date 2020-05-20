@@ -1,0 +1,9 @@
+C:\Users\victo\source\repos\Cálculos_basicos\Cálculos_basicos\bin\Debug\Cálculos_basicos.exe.config
+C:\Users\victo\source\repos\Cálculos_basicos\Cálculos_basicos\bin\Debug\Cálculos_basicos.exe
+C:\Users\victo\source\repos\Cálculos_basicos\Cálculos_basicos\bin\Debug\Cálculos_basicos.pdb
+C:\Users\victo\source\repos\Cálculos_basicos\Cálculos_basicos\obj\Debug\Cálculos_basicos.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Cálculos_basicos\Cálculos_basicos\obj\Debug\Cálculos_basicos.Form1.resources
+C:\Users\victo\source\repos\Cálculos_basicos\Cálculos_basicos\obj\Debug\Cálculos_basicos.Properties.Resources.resources
+C:\Users\victo\source\repos\Cálculos_basicos\Cálculos_basicos\obj\Debug\Cálculos_basicos.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Cálculos_basicos\Cálculos_basicos\obj\Debug\Cálculos_basicos.exe
+C:\Users\victo\source\repos\Cálculos_basicos\Cálculos_basicos\obj\Debug\Cálculos_basicos.pdb

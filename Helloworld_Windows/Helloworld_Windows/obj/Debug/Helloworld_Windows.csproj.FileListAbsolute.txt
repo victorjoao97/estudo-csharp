@@ -1,0 +1,8 @@
+C:\Users\victo\source\repos\Helloworld_Windows\Helloworld_Windows\bin\Debug\Helloworld_Windows.exe.config
+C:\Users\victo\source\repos\Helloworld_Windows\Helloworld_Windows\bin\Debug\Helloworld_Windows.exe
+C:\Users\victo\source\repos\Helloworld_Windows\Helloworld_Windows\bin\Debug\Helloworld_Windows.pdb
+C:\Users\victo\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.Form1.resources
+C:\Users\victo\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.Properties.Resources.resources
+C:\Users\victo\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.exe
+C:\Users\victo\source\repos\Helloworld_Windows\Helloworld_Windows\obj\Debug\Helloworld_Windows.pdb

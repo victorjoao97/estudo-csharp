@@ -1,0 +1,8 @@
+C:\Users\victo\source\repos\CondiçãoIF\CondiçãoIF\bin\Debug\CondiçãoIF.exe.config
+C:\Users\victo\source\repos\CondiçãoIF\CondiçãoIF\bin\Debug\CondiçãoIF.exe
+C:\Users\victo\source\repos\CondiçãoIF\CondiçãoIF\bin\Debug\CondiçãoIF.pdb
+C:\Users\victo\source\repos\CondiçãoIF\CondiçãoIF\obj\Debug\CondiçãoIF.Form1.resources
+C:\Users\victo\source\repos\CondiçãoIF\CondiçãoIF\obj\Debug\CondiçãoIF.Properties.Resources.resources
+C:\Users\victo\source\repos\CondiçãoIF\CondiçãoIF\obj\Debug\CondiçãoIF.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\CondiçãoIF\CondiçãoIF\obj\Debug\CondiçãoIF.exe
+C:\Users\victo\source\repos\CondiçãoIF\CondiçãoIF\obj\Debug\CondiçãoIF.pdb

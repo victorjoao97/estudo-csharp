@@ -1,0 +1,8 @@
+C:\Users\victo\source\repos\Conceito While\Conceito While\bin\Debug\Conceito While.exe.config
+C:\Users\victo\source\repos\Conceito While\Conceito While\bin\Debug\Conceito While.exe
+C:\Users\victo\source\repos\Conceito While\Conceito While\bin\Debug\Conceito While.pdb
+C:\Users\victo\source\repos\Conceito While\Conceito While\obj\Debug\Conceito_While.Form1.resources
+C:\Users\victo\source\repos\Conceito While\Conceito While\obj\Debug\Conceito_While.Properties.Resources.resources
+C:\Users\victo\source\repos\Conceito While\Conceito While\obj\Debug\Conceito While.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Conceito While\Conceito While\obj\Debug\Conceito While.exe
+C:\Users\victo\source\repos\Conceito While\Conceito While\obj\Debug\Conceito While.pdb

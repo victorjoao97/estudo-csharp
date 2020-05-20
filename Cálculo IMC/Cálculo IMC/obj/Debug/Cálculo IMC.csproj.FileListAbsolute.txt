@@ -1,0 +1,8 @@
+C:\Users\victo\source\repos\Cálculo IMC\Cálculo IMC\bin\Debug\Cálculo IMC.exe.config
+C:\Users\victo\source\repos\Cálculo IMC\Cálculo IMC\bin\Debug\Cálculo IMC.exe
+C:\Users\victo\source\repos\Cálculo IMC\Cálculo IMC\bin\Debug\Cálculo IMC.pdb
+C:\Users\victo\source\repos\Cálculo IMC\Cálculo IMC\obj\Debug\Cálculo_IMC.Form1.resources
+C:\Users\victo\source\repos\Cálculo IMC\Cálculo IMC\obj\Debug\Cálculo_IMC.Properties.Resources.resources
+C:\Users\victo\source\repos\Cálculo IMC\Cálculo IMC\obj\Debug\Cálculo IMC.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Cálculo IMC\Cálculo IMC\obj\Debug\Cálculo IMC.exe
+C:\Users\victo\source\repos\Cálculo IMC\Cálculo IMC\obj\Debug\Cálculo IMC.pdb

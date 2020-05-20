@@ -1,0 +1,8 @@
+C:\Users\victo\source\repos\Variavel\Variavel\bin\Debug\Variavel.exe.config
+C:\Users\victo\source\repos\Variavel\Variavel\bin\Debug\Variavel.exe
+C:\Users\victo\source\repos\Variavel\Variavel\bin\Debug\Variavel.pdb
+C:\Users\victo\source\repos\Variavel\Variavel\obj\Debug\Variavel.Form1.resources
+C:\Users\victo\source\repos\Variavel\Variavel\obj\Debug\Variavel.Properties.Resources.resources
+C:\Users\victo\source\repos\Variavel\Variavel\obj\Debug\Variavel.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Variavel\Variavel\obj\Debug\Variavel.exe
+C:\Users\victo\source\repos\Variavel\Variavel\obj\Debug\Variavel.pdb

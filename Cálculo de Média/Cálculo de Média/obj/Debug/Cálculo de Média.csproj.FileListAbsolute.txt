@@ -1,0 +1,9 @@
+C:\Users\victo\source\repos\Cálculo de Média\Cálculo de Média\bin\Debug\Cálculo de Média.exe.config
+C:\Users\victo\source\repos\Cálculo de Média\Cálculo de Média\bin\Debug\Cálculo de Média.exe
+C:\Users\victo\source\repos\Cálculo de Média\Cálculo de Média\bin\Debug\Cálculo de Média.pdb
+C:\Users\victo\source\repos\Cálculo de Média\Cálculo de Média\obj\Debug\Cálculo de Média.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Cálculo de Média\Cálculo de Média\obj\Debug\Cálculo_de_Média.Form1.resources
+C:\Users\victo\source\repos\Cálculo de Média\Cálculo de Média\obj\Debug\Cálculo_de_Média.Properties.Resources.resources
+C:\Users\victo\source\repos\Cálculo de Média\Cálculo de Média\obj\Debug\Cálculo de Média.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Cálculo de Média\Cálculo de Média\obj\Debug\Cálculo de Média.exe
+C:\Users\victo\source\repos\Cálculo de Média\Cálculo de Média\obj\Debug\Cálculo de Média.pdb

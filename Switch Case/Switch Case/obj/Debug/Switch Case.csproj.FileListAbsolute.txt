@@ -1,0 +1,10 @@
+C:\Users\victo\source\repos\Switch Case\Switch Case\bin\Debug\Switch Case.exe.config
+C:\Users\victo\source\repos\Switch Case\Switch Case\bin\Debug\Switch Case.exe
+C:\Users\victo\source\repos\Switch Case\Switch Case\bin\Debug\Switch Case.pdb
+C:\Users\victo\source\repos\Switch Case\Switch Case\obj\Debug\Switch_Case.Form1.resources
+C:\Users\victo\source\repos\Switch Case\Switch Case\obj\Debug\Switch_Case.Properties.Resources.resources
+C:\Users\victo\source\repos\Switch Case\Switch Case\obj\Debug\Switch Case.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Switch Case\Switch Case\obj\Debug\Switch Case.exe
+C:\Users\victo\source\repos\Switch Case\Switch Case\obj\Debug\Switch Case.pdb
+C:\Users\victo\source\repos\Switch Case\Switch Case\obj\Debug\Switch Case.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Switch Case\Switch Case\obj\Debug\Switch_Case.Form2.resources
