@@ -13,6 +13,7 @@ namespace CFB_Cursos
     public partial class Form1 : Form
     {
         List<string> carros = new List<string>();
+        int numero = 0;
         public Form1()
         {
             InitializeComponent();
@@ -73,6 +74,23 @@ namespace CFB_Cursos
             btnRemover.Enabled = checkCarros;
             btnObter.Enabled = checkCarros;
             btnLimpar.Enabled = checkCarros;
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            label2.Text = (numero++).ToString();
+        }
+
+        private void label2_DoubleClick(object sender, EventArgs e)
+        {
+            numero = 0;
+            label2.Text = numero.ToString();
+            timer1.Stop();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            timer1.Start();
         }
     }
 }
